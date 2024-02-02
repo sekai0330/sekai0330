@@ -41,11 +41,11 @@ Experienced software developer skilled in multiple programming languages, includ
 <h2></h2>
 
 <p align="center">
-  <a href="https://twitter.com/mdemirciiii" target="_blank" rel="noopener noreferrer"><img src="https://icons8.com/icon/13963/twitter"  width="50" /></a>
+  <a href="https://twitter.com/mdemirciiii" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/twitter--v1.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:noahsflood908@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
+  <a href="demirci.muhammedd@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/demirci.muhammedd" target="_blank" rel="noopener noreferrer"><img src="https://icons8.com/icon/32323/instagram"  width="50" /></a>
+  <a href="https://www.instagram.com/demirci.muhammedd" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/instagram-new--v1.png"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/demircimuhammed/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png" width="50" /></a>
   &nbsp;&nbsp;
