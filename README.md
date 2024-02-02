@@ -2,7 +2,7 @@
 
 <h1 align="center" style="font-size:30px">
   Welcome to visit my github
-</h1>git
+</h1>
 <h2>
     Hi, my name is 
     <span style="font-size:25px">Muhammed Demirci.</sapn>
@@ -32,28 +32,26 @@ Experienced software developer skilled in multiple programming languages, includ
  <h2></h2>
 
 <p>
-  <img src="https://github-readme-stats-kv.vercel.app/api?username=demircimuhammedd&theme=github_dark&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="Vatsal's github-readme-stats"/>
-  <img src="https://github-readme-streak-stats-kv.vercel.app?user=demircimuhammedd&theme=tokyonight_duo&hide_border=true" width="48%" alt="Vatsal's github-readme-streak-stats"/>
+  <img src="https://github-readme-streak-stats-kv.vercel.app?user=demircimuhammedd&theme=tokyonight_duo&hide_border=true" width="100%" alt="demircimuhammedd's github-readme-streak-stats"/>
 </p>
 
 <p>
-  <img width="58%" align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=demircimuhammedd&theme=github_dark&hide_border=true&layout=compact&langs_count=6&v=2" alt="Vatsal's wakatime stats"/>
-    <img width="38%" src="https://github-readme-stats-kv.vercel.app/api/top-langs?username=demircimuhammedd&show_icons=true&theme=github_dark&locale=en&layout=compact&hide_border=true" alt="demircimuhammedd" />
-
+ <img src="https://github-readme-stats-kv.vercel.app/api/top-langs?username=demircimuhammedd&show_icons=true&theme=github_dark&locale=en&layout=compact&hide_border=true" width="100%" alt="demircimuhammedd" />
+</p>
 <h2></h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mymiracle0118" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" /></a>
+  <a href="https://twitter.com/mdemirciiii" target="_blank" rel="noopener noreferrer"><img src="https://icons8.com/icon/13963/twitter"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="mailto:noahsflood908@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/L3RRDf51v6I9" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
+  <a href="https://www.instagram.com/demirci.muhammedd" target="_blank" rel="noopener noreferrer"><img src="https://icons8.com/icon/32323/instagram"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://t.me/SweetDreamhaha" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
+  <a href="https://www.linkedin.com/in/demircimuhammed/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png" width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://discord.gg/eSH6BbWx" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/3d-fluency/94/discord-logo.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://iwakihiroto-portfolio.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
+  <!-- <a href="https://discord.gg/eSH6BbWx" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/3d-fluency/94/discord-logo.png"  width="50" /></a>
+  &nbsp;&nbsp; -->
+  <a href="https://#" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
 </p>
 
 <h2 align="center"> Thanks for visiting my profile. </h2>
