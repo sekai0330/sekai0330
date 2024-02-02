@@ -1,24 +1,8 @@
 ### Hi there 👋
 
-<!--
-**demircimuhammedd/demircimuhammedd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<p align="center" style="font-size:30px">
+<h1 align="center" style="font-size:30px">
   Welcome to visit my github
-</p>
+</h1>git
 <h2>
     Hi, my name is 
     <span style="font-size:25px">Muhammed Demirci.</sapn>
