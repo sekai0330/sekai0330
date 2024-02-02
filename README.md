@@ -26,9 +26,10 @@ Here are some ideas to get you started:
 </h2>
 
 
-  <h2>About Me</h2>
-  
+<h2>About Me</h2>
+<p>
 Experienced software developer skilled in multiple programming languages, including C#, .NET, React, Next, Vue, Node, Ruby, Laravel, Solidity, Rust, and various blockchain technologies like Defi, DEX, Polkadot, DAOs, and ICO/IDOs. Proficient in building scalable applications using APIs, third-party integrations, and databases. Strong background in front-end development with React, Next.js, Bootstrap, Material-UI, and Tailwind CSS. Back-end development expertise in Node.js, Express.js, Nest.js, Laravel, WordPress, and GraphQL. Familiar with Headless CMS solutions and DevOps practices such as CI/CD pipelines, Docker, Git, and serverless microservices. Available for hire on Upwork.
+</p>
 
 <h2>Languages & Tools</h2>
 <p align="center">
