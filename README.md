@@ -31,12 +31,12 @@ Experienced software developer skilled in multiple programming languages, includ
 
  <h2></h2>
 
-<p>
-  <img src="https://github-readme-streak-stats-kv.vercel.app?user=demircimuhammedd&theme=tokyonight_duo&hide_border=true" width="100%" alt="demircimuhammedd's github-readme-streak-stats"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats-kv.vercel.app?user=demircimuhammedd&theme=tokyonight_duo&hide_border=true" width="85%" alt="demircimuhammedd's github-readme-streak-stats"/>
 </p>
 
-<p>
- <img src="https://github-readme-stats-kv.vercel.app/api/top-langs?username=demircimuhammedd&show_icons=true&theme=github_dark&locale=en&layout=compact&hide_border=true" width="100%" alt="demircimuhammedd" />
+<p align="center">
+ <img src="https://github-readme-stats-kv.vercel.app/api/top-langs?username=demircimuhammedd&show_icons=true&theme=github_dark&locale=en&layout=compact&hide_border=true" width="85%" alt="demircimuhammedd" />
 </p>
 <h2></h2>
 
