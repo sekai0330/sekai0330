@@ -1,53 +1,59 @@
-### Hi there 👋
+
 
 <h1 align="center" style="font-size:30px">
-  Welcome to visit my github
+  Hi👋, Welcome to visit my github
 </h1>
-<h2>
-    Hi, my name is 
-    <span style="font-size:25px">Muhammed Demirci.</sapn>
-    </span>
-</h2>
-
-
 <h2>About Me</h2>
 <p>
-Experienced software developer skilled in multiple programming languages, including C#, .NET, React, Next, Vue, Node, Ruby, Laravel, Solidity, Rust, and various blockchain technologies like Defi, DEX, Polkadot, DAOs, and ICO/IDOs. Proficient in building scalable applications using APIs, third-party integrations, and databases. Strong background in front-end development with React, Next.js, Bootstrap, Material-UI, and Tailwind CSS. Back-end development expertise in Node.js, Express.js, Nest.js, Laravel, WordPress, and GraphQL. Familiar with Headless CMS solutions and DevOps practices such as CI/CD pipelines, Docker, Git, and serverless microservices. Available for hire on Upwork.
+Senior Full-Stack web developer with 5+ years of experience.
 </p>
+<p>
+Experienced Full-Stack developer adapt in all stages of advanced development. Knowledgeable in user interface, testing and debugging processes. Equipped with a diverse and promising web development skill-set.
+</p>
+<p>
+React, Next, Vue, Nuxt, React Native, Node, Laravel, Node, WordPress. Proficient in building scalable applications using APIs, third-party integrations, and databases. Strong background in front-end development with React, Next.js, Vue, Nuxt, Bootstrap, Material-UI, and Tailwind CSS. Back-end development expertise in Node.js, Express.js, Nest.js, Laravel, WordPress, and GraphQL.
+</p>
+- Like to make a development document with developing content to use that in the future.</br>
+- Delivering perfect results by deadline.</br>
+- Keeping good communication and work on the client's timezone.</br>
+- Ability for working with any team and prefer to share much knowledge with many developers.</br>
+- Looking for an opportunity to build a long-term relationship with great clients all over the world.</br>
 
-<h2>Languages & Tools</h2>
+<h2>My Skills</h2>
+<h3 align="center">-front end</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,cpp,py,java,mysql,mongodb" alt="programming languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,bootstrap,tailwind,materialui,jquery,webpack,vite,babel" alt="frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,vue,angular,nextjs,nuxtjs,redux,electron"
 </p>
+<h3 align="center">-back end</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,expressjs,vue,sass,bootstrap,tailwind,materialui" alt="frameworks" />
+  <img src="https://skillicons.dev/icons?i=nodejs,php,expressjs,laravel,wordpress,mysql,mongodb,graphql" alt="frameworks" />
 </p>
+<h3 align="center">-tools</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,firebase,ai,ps" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,figma,firebase,ai,ps,postman,xd" alt="tools" />
 </p>  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,golang,rust" alt="blockchain" />
-</p>
+
 
  <h2></h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-kv.vercel.app?user=demircimuhammedd&theme=tokyonight&hide_border=true"  height="200" alt="demircimuhammedd's github-readme-streak-stats"/>
+  <img src="https://github-readme-streak-stats-kv.vercel.app?user=sekai0330&theme=tokyonight&hide_border=true"  height="200" alt="sekai0330's github-readme-streak-stats"/>
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats-kv.vercel.app/api/top-langs?username=demircimuhammedd&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true"  height="200" alt="demircimuhammedd" />
+ <img src="https://github-readme-stats-kv.vercel.app/api/top-langs?username=sekai0330&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true"  height="200" alt="sekai0330" />
 </p>
 <h2></h2>
 
 <p align="center">
-  <a href="https://twitter.com/mdemirciiii" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/twitter--v1.png"  width="50" /></a>
+  <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/twitter--v1.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:demirci.muhammedd@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
+  <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/demirci.muhammedd" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/instagram-new--v1.png"  width="50" /></a>
+  <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/instagram-new--v1.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/demircimuhammed/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png" width="50" /></a>
+  <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png" width="50" /></a>
   &nbsp;&nbsp;
   <!-- <a href="https://discord.gg/eSH6BbWx" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/3d-fluency/94/discord-logo.png"  width="50" /></a>
   &nbsp;&nbsp; -->
