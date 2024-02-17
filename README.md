@@ -11,7 +11,7 @@ Senior Full-Stack web developer with 5+ years of experience.
 Experienced Full-Stack developer adapt in all stages of advanced development. Knowledgeable in user interface, testing and debugging processes. Equipped with a diverse and promising web development skill-set.
 </p>
 <p>
-React, Next, Vue, Nuxt, React Native, Node, Laravel, Node, WordPress. Proficient in building scalable applications using APIs, third-party integrations, and databases. Strong background in front-end development with React, Next.js, Vue, Nuxt, Bootstrap, Material-UI, and Tailwind CSS. Back-end development expertise in Node.js, Express.js, Nest.js, Laravel, WordPress, and GraphQL.
+Proficient in building scalable applications using APIs, third-party integrations, and databases. Strong background in front-end development with React, Next.js, Vue, Nuxt, Bootstrap, Material-UI, and Tailwind CSS. Back-end development expertise in Node.js, Express.js, Nest.js, Laravel, WordPress, and GraphQL.
 </p>
 - Like to make a development document with developing content to use that in the future.</br>
 - Delivering perfect results by deadline.</br>
