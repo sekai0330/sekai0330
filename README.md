@@ -5,7 +5,7 @@
 </h1>
 <h2>About Me</h2>
 <p>
-Senior Full-Stack web developer with 5+ years of experience.
+Senior web developer with 6+ years of experience.
 </p>
 <p>
 Experienced Full-Stack developer adapt in all stages of advanced development. Knowledgeable in user interface, testing and debugging processes. Equipped with a diverse and promising web development skill-set.
